@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 30px;
+    padding: 15px 30px 30px 30px;
+    border: solid 3px black;
+    background-color: white;    
+    width: 600px;
+    height: 280px;  
+}
+
+.box{   
+    display: inline-block;
+    width: 155px;
+    height: 190px;
+    margin: 50px;
+}
+
+.book{
+    margin: 10px;  
+    padding: 10px;
+    background-color: rgb(255, 213, 0);
+    border: solid 2px rgb(204, 156, 25);
+}
+
+.headphone{
+    margin: 10px;  
+    padding: 10px;
+    background-color: rgb(190, 58, 14);
+    border: solid 2px rgba(184, 48, 3, 0.822);
+}
+
+.watch{
+    margin: 10px;  
+    padding: 10px;
+    background-color: rgb(10, 212, 88);
+    border: solid 2px rgb(2, 130, 74);
+}
