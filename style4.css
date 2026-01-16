@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border: solid 2px black;
+}
+
+.box2{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    border: dotted 2px black;
+}
+
+.box3{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: lightcoral;
+    border: dashed 2px black;
+}
+.box4{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: lightgoldenrodyellow;
+    border: double 2px black;
+}
